@@ -1,0 +1,26 @@
+#content-center{
+	/*background-color:red;*/
+	width:50%;
+	margin-left:20%;
+	text-align:right;
+}
+#footer{
+	color:white;
+	text-align:center;
+	width:100%;
+	padding-top:10px;
+	font-size:15px;
+}
+#activeadmin{
+	display: none;
+}
+/*#descpend img{
+	background:blue;
+	border:1px solid;
+	display:block;
+	position:relative;
+	float:left;
+	width:10px;
+	height:200px;
+	padding:10px;
+}*/
